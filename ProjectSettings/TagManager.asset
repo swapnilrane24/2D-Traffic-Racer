@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Fuel
+  - PickUp
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - CarLayer
+  - PickUps
+  - PlayerCar
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1325545211
+    locked: 0
+  - name: Extra
+    uniqueID: 3195865801
+    locked: 0
+  - name: Enemies
+    uniqueID: 609688765
+    locked: 0
+  - name: PickUps
+    uniqueID: 1021201307
+    locked: 0
+  - name: Player
+    uniqueID: 2672856417
+    locked: 0
+  - name: FX
+    uniqueID: 3419722307
+    locked: 0
+  - name: GUI
+    uniqueID: 4280396759
+    locked: 0
